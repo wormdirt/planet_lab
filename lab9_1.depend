@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1460062753 source:c:\users\wesley ambrosini\desktop\css\css-t00\lab9_1\main.cpp
+	<iostream>
+	<vector>
+	"SolarSystem.h"
+
+1460059136 c:\users\wesley ambrosini\desktop\css\css-t00\lab9_1\include\solarsystem.h
+	"Planet.h"
+	<iostream>
+	<vector>
+
+1460059136 c:\users\wesley ambrosini\desktop\css\css-t00\lab9_1\include\planet.h
+	<iostream>
+	<vector>
+
+1460062512 source:c:\users\wesley ambrosini\desktop\css\css-t00\lab9_1\src\planet.cpp
+	"Planet.h"
+
+1460062606 source:c:\users\wesley ambrosini\desktop\css\css-t00\lab9_1\src\solarsystem.cpp
+	"SolarSystem.h"
+
+1477507805 source:c:\users\wesley ambrosini\desktop\css\live and let die\css-t00\lab9_1\main.cpp
+	<iostream>
+	<vector>
+	"SolarSystem.h"
+
+1477505226 c:\users\wesley ambrosini\desktop\css\live and let die\css-t00\lab9_1\include\solarsystem.h
+	"Planet.h"
+	<iostream>
+	<vector>
+
+1460059136 c:\users\wesley ambrosini\desktop\css\live and let die\css-t00\lab9_1\include\planet.h
+	<iostream>
+	<vector>
+
+1460062512 source:c:\users\wesley ambrosini\desktop\css\live and let die\css-t00\lab9_1\src\planet.cpp
+	"Planet.h"
+
+1477508658 source:c:\users\wesley ambrosini\desktop\css\live and let die\css-t00\lab9_1\src\solarsystem.cpp
+	"SolarSystem.h"
+
